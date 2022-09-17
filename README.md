@@ -1,6 +1,6 @@
-# AMAZON CLONE React Karrtopelka
+# AMAZON CLONE Using React
 
-Amazon clone based on React. Done by Max Karrtopelka on august 2020
+Amazon clone based on React. Done by Yash Gole on august 2022
 
 ## Available website
 
